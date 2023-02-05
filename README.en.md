@@ -1,7 +1,7 @@
 # Seniority for software engineers
 
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/sergey-sw/developer-seniority/blob/master/README.en.md)
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/sergey-sw/developer-seniority/blob/master/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/sergey-sw/developer-seniority/blob/master/README.md)
 
 
 The global IT industry employs millions of developers with a wide range of experiences and skills. To differentiate between more experienced and skilled specialists from those who are less so, the industry uses the terms `junior`, `middle`, and `senior`.
