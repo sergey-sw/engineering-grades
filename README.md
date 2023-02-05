@@ -1,7 +1,7 @@
 # Seniority for software engineers
 
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/sergey-sw/engineering-grades/blob/master/README.en.md)
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/sergey-sw/engineering-grades/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/sergey-sw/engineering-grades/blob/main/README.en.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/sergey-sw/engineering-grades/blob/main/README.md)
 
 В мировой IT индустрии работают миллионы разработчиков с разным опытом и навыками. Чтобы отличить более опытных и квалифицированных специалистов от менее опытных, в отрасли используются термины `junior`, `middle` и `senior`.
 
