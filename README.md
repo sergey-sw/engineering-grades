@@ -1,5 +1,7 @@
 # Seniority for software engineers
 
+![Software Engineers](https://github.com/sergey-sw/engineering-grades/blob/main/logo.png?raw=true)
+
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/sergey-sw/engineering-grades/blob/main/README.en.md)
 [![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/sergey-sw/engineering-grades/blob/main/README.md)
 
